@@ -1,0 +1,16 @@
+{
+  "name": "trunng",
+  "version": "1.0.0",
+  "description": "Bai Tap Cuoi Buoi PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Trung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  }
+}
